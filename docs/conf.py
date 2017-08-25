@@ -49,9 +49,9 @@ sys.path.append(os.path.abspath('exts'))
 
 
 html_theme_options = {
-   'github_user': 'NeuPhysics',
+   'github_user': 'yzhu14',
    'github_repo': 'neutrino',
-   'gratipay_user': 'emptymalei',
+   'gratipay_user': 'YONGLIN ZHU',
    'analytics_id': 'UA-66327435-2',
    'description': 'Neutrino Physics',
 }
@@ -149,7 +149,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Neutrino'
-copyright = u'2017, Lei Ma'
+copyright = u'2017, Yonglin Zhu'
 
 
 # The version info for the project you're documenting, acts as replacement for
@@ -378,7 +378,7 @@ latex_elements = {
 #  author, documentclass [howto/manual]).
 latex_documents = [
   ('index', 'neutrino.tex', u'Neutrino Notes',
-   u'Lei Ma', 'manual'),
+   u'Yonglin Zhu', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -425,7 +425,7 @@ latex_additional_files = [
 # (source start file, name, description, authors, manual section).
 man_pages = [
     ('index', 'neutrino', u'Neutrino Documentation',
-     [u'Lei Ma'], 1)
+     [u'Yonglin Zhu'], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -439,7 +439,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
   ('index', 'Neutrino', u'Neutrino Documentation',
-   u'Lei Ma', 'Neutrino', 'Notes for neutrino physics',
+   u'Yonglin Zhu', 'Neutrino', 'Notes for neutrino physics',
    'Miscellaneous'),
 ]
 
@@ -460,9 +460,9 @@ texinfo_documents = [
 
 # Bibliographic Dublin Core info.
 epub_title = u'neutrino'
-epub_author = u'Lei Ma'
-epub_publisher = u'Lei Ma'
-epub_copyright = u'2016, Lei Ma'
+epub_author = u'Yonglin Zhu'
+epub_publisher = u'Yonglin Zhu'
+epub_copyright = u'2017, Yonglin Zhu'
 
 # The language of the text. It defaults to the language option
 # or en if the language is not set.
